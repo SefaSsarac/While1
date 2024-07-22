@@ -1,0 +1,14 @@
+D:\Yazılım\Repository\While2\While2\bin\Debug\net8.0\While2.exe
+D:\Yazılım\Repository\While2\While2\bin\Debug\net8.0\While2.deps.json
+D:\Yazılım\Repository\While2\While2\bin\Debug\net8.0\While2.runtimeconfig.json
+D:\Yazılım\Repository\While2\While2\bin\Debug\net8.0\While2.dll
+D:\Yazılım\Repository\While2\While2\bin\Debug\net8.0\While2.pdb
+D:\Yazılım\Repository\While2\While2\obj\Debug\net8.0\While2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Yazılım\Repository\While2\While2\obj\Debug\net8.0\While2.AssemblyInfoInputs.cache
+D:\Yazılım\Repository\While2\While2\obj\Debug\net8.0\While2.AssemblyInfo.cs
+D:\Yazılım\Repository\While2\While2\obj\Debug\net8.0\While2.csproj.CoreCompileInputs.cache
+D:\Yazılım\Repository\While2\While2\obj\Debug\net8.0\While2.dll
+D:\Yazılım\Repository\While2\While2\obj\Debug\net8.0\refint\While2.dll
+D:\Yazılım\Repository\While2\While2\obj\Debug\net8.0\While2.pdb
+D:\Yazılım\Repository\While2\While2\obj\Debug\net8.0\While2.genruntimeconfig.cache
+D:\Yazılım\Repository\While2\While2\obj\Debug\net8.0\ref\While2.dll

@@ -1,0 +1,14 @@
+D:\Yazılım\Repository\While1\While1\bin\Debug\net8.0\While1.exe
+D:\Yazılım\Repository\While1\While1\bin\Debug\net8.0\While1.deps.json
+D:\Yazılım\Repository\While1\While1\bin\Debug\net8.0\While1.runtimeconfig.json
+D:\Yazılım\Repository\While1\While1\bin\Debug\net8.0\While1.dll
+D:\Yazılım\Repository\While1\While1\bin\Debug\net8.0\While1.pdb
+D:\Yazılım\Repository\While1\While1\obj\Debug\net8.0\While1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Yazılım\Repository\While1\While1\obj\Debug\net8.0\While1.AssemblyInfoInputs.cache
+D:\Yazılım\Repository\While1\While1\obj\Debug\net8.0\While1.AssemblyInfo.cs
+D:\Yazılım\Repository\While1\While1\obj\Debug\net8.0\While1.csproj.CoreCompileInputs.cache
+D:\Yazılım\Repository\While1\While1\obj\Debug\net8.0\While1.dll
+D:\Yazılım\Repository\While1\While1\obj\Debug\net8.0\refint\While1.dll
+D:\Yazılım\Repository\While1\While1\obj\Debug\net8.0\While1.pdb
+D:\Yazılım\Repository\While1\While1\obj\Debug\net8.0\While1.genruntimeconfig.cache
+D:\Yazılım\Repository\While1\While1\obj\Debug\net8.0\ref\While1.dll
